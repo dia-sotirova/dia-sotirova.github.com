@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://dia-sotirova.github.com/sitemap.xml 
